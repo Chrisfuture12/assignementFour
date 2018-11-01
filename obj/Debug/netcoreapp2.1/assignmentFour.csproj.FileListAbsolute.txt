@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/obj/Debug/netcoreapp2.1/assignmentFour.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/obj/Debug/netcoreapp2.1/assignmentFour.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/obj/Debug/netcoreapp2.1/assignmentFour.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/obj/Debug/netcoreapp2.1/assignmentFour.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/bin/Debug/netcoreapp2.1/assignmentFour.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/bin/Debug/netcoreapp2.1/assignmentFour.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/bin/Debug/netcoreapp2.1/assignmentFour.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/bin/Debug/netcoreapp2.1/assignmentFour.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/bin/Debug/netcoreapp2.1/assignmentFour.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/obj/Debug/netcoreapp2.1/assignmentFour.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/assignmentFour/obj/Debug/netcoreapp2.1/assignmentFour.pdb
